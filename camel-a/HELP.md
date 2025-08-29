@@ -1,5 +1,7 @@
 # camel-a
 
+https://github.com/in28minutes/camel
+
 -----
 docker pull rmohr/activemq
 docker volume create acctivemq-vol
