@@ -17,6 +17,11 @@
             <artifactId>camel-jackson-starter</artifactId>
             <version>4.14.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.camel.springboot</groupId>
+            <artifactId>camel-jacksonxml-starter</artifactId>
+            <version>4.14.0</version>
+        </dependency>
     </dependencies>
 
 </project>

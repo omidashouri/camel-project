@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 @RequiredArgsConstructor
-public class ActiveMqReceiverRouter extends RouteBuilder {
+public class ActiveMqJsonReceiverRouter extends RouteBuilder {
 
     private final MyCurrencyExchangeProcessor myCurrencyExchangeProcessor;
     private final MyCurrencyExchangeTransformer myCurrencyExchangeTransformer;
